@@ -1,2 +1,4 @@
 1 gitの練習を始めます
 2 基本操作を実施します
+3 git add
+4 git commit
